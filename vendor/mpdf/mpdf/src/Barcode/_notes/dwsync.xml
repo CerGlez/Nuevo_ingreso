@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractBarcode.php" server="C:/xampp/htdocs/sitio_inscripcion/" local="131683029915504765" remote="131683029910000000" Dst="2" />
+<file name="BarcodeException.php" server="C:/xampp/htdocs/sitio_inscripcion/" local="131683029915504765" remote="131683029910000000" Dst="2" />
+<file name="BarcodeInterface.php" server="C:/xampp/htdocs/sitio_inscripcion/" local="131683029915661025" remote="131683029910000000" Dst="2" />
+<file name="Codabar.php" server="C:/xampp/htdocs/sitio_inscripcion/" local="131683029915661025" remote="131683029910000000" Dst="2" />
+<file name="Code11.php" server="C:/xampp/htdocs/sitio_inscripcion/" local="131683029915973573" remote="131683029910000000" Dst="2" />
+<file name="Code128.php" server="C:/xampp/htdocs/sitio_inscripcion/" local="131683029916286158" remote="131683029910000000" Dst="2" />
+<file name="Code39.php" server="C:/xampp/htdocs/sitio_inscripcion/" local="131683029916286158" remote="131683029910000000" Dst="2" />
+<file name="Code93.php" server="C:/xampp/htdocs/sitio_inscripcion/" local="131683029916599655" remote="131683029910000000" Dst="2" />
+<file name="EanExt.php" server="C:/xampp/htdocs/sitio_inscripcion/" local="131683029916754938" remote="131683029910000000" Dst="2" />
+<file name="EanUpc.php" server="C:/xampp/htdocs/sitio_inscripcion/" local="131683029916754938" remote="131683029910000000" Dst="2" />
+<file name="I25.php" server="C:/xampp/htdocs/sitio_inscripcion/" local="131683029917067523" remote="131683029910000000" Dst="2" />
+<file name="Imb.php" server="C:/xampp/htdocs/sitio_inscripcion/" local="131683029917223771" remote="131683029910000000" Dst="2" />
+<file name="Msi.php" server="C:/xampp/htdocs/sitio_inscripcion/" local="131683029917223771" remote="131683029910000000" Dst="2" />
+<file name="Postnet.php" server="C:/xampp/htdocs/sitio_inscripcion/" local="131683029917380043" remote="131683029910000000" Dst="2" />
+<file name="Rm4Scc.php" server="C:/xampp/htdocs/sitio_inscripcion/" local="131683029917380043" remote="131683029910000000" Dst="2" />
+<file name="S25.php" server="C:/xampp/htdocs/sitio_inscripcion/" local="131683029917380043" remote="131683029910000000" Dst="2" />
+</dwsync>

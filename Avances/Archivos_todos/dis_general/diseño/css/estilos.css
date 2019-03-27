@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* CSS Document */
+#menú{
+ width: 100%;
+  height: 15%;	
+  position:absolute; 
+  left: 0%;
+  top: 0%;
+  background-color:#000;
+}
+
+
+#fondo{
+  width: 100%;
+  height: 85%;	
+  position:absolute; 
+  left: 0%;
+  top: 15%;
+  background-color:#000;
+}
+
+
+#Rec_Transparente{
+ width: 50%;
+  height: 50%;	
+  position:absolute; 
+  left: 26%;
+  top: 25%;
+}
+
+#Rec_Campos{
+ width: 86%;
+  height: 81%;	
+  position:absolute; 
+  left: 7%;
+  top: 8%;
+
+}
+
+#Rec_Titulo{
+ width: 100%;
+  height: 35%;	
+  position:absolute; 
+  left: 0%;
+  top: 0%;
+}
+
+#Rec_Btncamps{
+ width: 100%;
+  height: 65%;	
+  position:absolute; 
+  left: 0%;
+  top: 35%;
+}
+
+
+.campo{
+  width: 90%;
+  height: 20%;	
+  margin-left: 5%;
+  position:absolute;
+  
+}
+
+.camp{
+  width: 50%;
+  height: 20%;	
+  margin-left:0%
+  position:absolute;
+  
+  color:#FFF;
+  background-color:#000;
+}

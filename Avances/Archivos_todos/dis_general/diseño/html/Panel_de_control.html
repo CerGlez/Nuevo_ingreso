@@ -1,0 +1,165 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Documento sin título</title>
+<link href="../css/Es_Panel_control.css" rel="stylesheet" type="text/css">
+
+<script type="text/javascript">
+	function buttonclick(){
+		
+		
+	}
+</script>
+
+</head>
+
+<body>
+
+<div id="menú">
+	<div id="sess">
+    	<form class="for" action="curp.php" method="post">
+   		  <input type="submit" class="sess" name="Cerrar Sesión" value="Cerrar Sesión" onClick="buttonclick()">
+        </form>
+    </div>	
+    
+     <div id="logo">
+    	<img src="../gato.jpg" width="100%" height="39%">
+    </div>
+ 
+    
+    
+  <div id="menú_Inferior">
+  
+        
+        <div id="Btn_Descargar">
+        	<form class="for" action="curp.php" method="post">
+   			  <input type="button" class="Btn_Descargar" name="descarga" >
+        	</form>
+        </div>
+        
+        
+        <div id="exportacion2">
+        	<center>
+                 <form class="for" action="curp.php" method="post">   
+                        <label>Importar:</label> <br>
+                        
+                        <select name="Export_pdf">
+                            <option value="sol"> </option>
+                            <option value="sol_selec">Solo Selecionado</option>
+                        </select>
+                         
+                 </form>  
+             </center> 
+        </div>
+        
+        
+    <div id="exportacion1">
+    	<center>
+             <form class="for" action="curp.php" method="post">   
+                	<label>Exportar en:</label> <br>
+                    
+                    <select name="Export_exel">
+                    	<option value="lis"> </option>
+                        <option value="lis_exel">Lista de Exel</option>
+                   	</select>
+        	 </form> 
+         </center>          
+    </div>
+        
+        
+        <div id="ord_selec">
+       	  <div id="ordenar_por">
+            	 <form class="for" action="curp.php" method="post">   
+                       <label>Odenar por:</label> 
+                   	   <select name="Ord_todo">
+                       <option value="ord"> </option>
+                       <option value="fecha">Fecha(+,-)</option>
+                       </select>
+                    
+             	</form> 
+            
+            </div>
+            
+          <div id="btn_selec_todo">
+            	<form class="for" action="curp.php" method="post">
+       			<input type="submit" onClick=" " class="btn_selec_todo" name="S_T" value="SELECCIONAR TODO">
+        		</form>
+            </div>
+        </div>
+        
+        
+        
+  </div>
+</div>
+
+
+<div id="latera">
+	
+    
+    
+    
+    
+    
+  <div id="bot1">	
+            <form class="for" action="curp.php" method="post">
+            <input type="submit" class="botones" name="BTN1" value="Todos los registros">
+            </form>
+        </div>
+            
+  <div id="bot2">	        
+            <form class="for" action="curp.php" method="post">
+            <input type="submit" class="botones" name="BTN2" value="Registros Recientes">
+            </form>
+              </div>
+  <div id="bot3">	    
+            <form class="for" action="curp.php" method="post">
+            <input type="submit" class="botones" name="BTN3" value="Registros archivados">
+            </form>
+  </div>
+        
+  <div id="bot4">
+  			<form class="for" action="curp.php" method="post">
+            <input type="submit" class="botones" name="BTN4" value="Archivar todos los registros seleccionados" style="">
+            </form>
+  </div>      
+</div>
+
+
+
+
+<div id="datos">
+  <div class="boxContenedor">
+    
+    
+	<table width="100%" height="86" border="2">
+      <tr>
+      	<th> <label>SELECCIONAR</label> </th>
+      	<th> <label>NOMBRE</label></th>
+        <th> <label>FECHA</label> </th>
+        <th> <label>AJUSTES</label> </th>
+      </tr>
+	  <tr>
+	    <th width="17%"> <input type="checkbox" name="1er_registro"  /></th>
+	    <th width="54%"> <label><small>Camberos Ochoa Héctor Eduardo</small></label> </th> 
+	    <th width="19%"> <label><small>13/4/2018</small></label> </th> 
+        <th width="10%"> <input type="button" class="botonimagen" value=" "/> </th>
+      </tr>
+	  <tr>
+	    <th><input type="checkbox" name="condiciones"  /></th>
+	    <th> <label><small>De Lino Martínez Brayan Onasis</small></label> </th> 
+	    <th> <label><small>13/4/2018</small></label> </th> 
+        <th> <input type="button" class="botonimagen" value=" "/> </th>
+      </tr>
+	  <tr>
+	    <th><input type="checkbox" name="condiciones"  /></th>
+	    <th> <label><small> Perez De La Torre José</small></label></th>
+	    <th> <label><small>13/4/2018</small></label> </th>
+        <th> <input type="button" class="botonimagen" value=" "/> </th>       
+	  </tr>
+  </table>
+</div>
+</div>
+
+</body>
+</html>

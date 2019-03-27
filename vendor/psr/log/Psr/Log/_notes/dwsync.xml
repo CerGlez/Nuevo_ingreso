@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractLogger.php" server="C:/xampp/htdocs/sitio_inscripcion/" local="131683028954510058" remote="131683028950000000" Dst="2" />
+<file name="InvalidArgumentException.php" server="C:/xampp/htdocs/sitio_inscripcion/" local="131683028954666313" remote="131683028950000000" Dst="2" />
+<file name="LoggerAwareInterface.php" server="C:/xampp/htdocs/sitio_inscripcion/" local="131683028954978866" remote="131683028950000000" Dst="2" />
+<file name="LoggerAwareTrait.php" server="C:/xampp/htdocs/sitio_inscripcion/" local="131683028955135208" remote="131683028950000000" Dst="2" />
+<file name="LoggerInterface.php" server="C:/xampp/htdocs/sitio_inscripcion/" local="131683028955291402" remote="131683028950000000" Dst="2" />
+<file name="LoggerTrait.php" server="C:/xampp/htdocs/sitio_inscripcion/" local="131683028955603955" remote="131683028950000000" Dst="2" />
+<file name="LogLevel.php" server="C:/xampp/htdocs/sitio_inscripcion/" local="131683028954822581" remote="131683028950000000" Dst="2" />
+<file name="NullLogger.php" server="C:/xampp/htdocs/sitio_inscripcion/" local="131683028955760210" remote="131683028950000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,391 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+background-color:#C1C1C1;
+}/*  C1C1C1 /  BCC4C7 */
+
+/*------------------------el menú--------------------*/
+#menú{
+ width: 100%;
+  height: 11%;	
+  position:absolute; 
+  left: 0%;
+  top: 0%;
+  background-color:#000917;
+}
+
+#linea{
+  width: 100%;	
+  height: 9%;	
+  position:absolute; 
+  left: 0%;
+  top: 91%;
+  background-color:#369;
+}
+
+#btn-csesion{
+ width: 14%;
+  height: 65%;	
+  position:absolute; 
+  left: 85%;
+  top: 10%;
+  background-color:#333;
+  
+  color:#FFFFFF;
+}
+
+
+/*------------titulo panel de control----------------*/
+
+#panel{
+ width: 85%;
+  height: 5%;	
+  position:absolute; 
+  left: 8%;
+  top: 14%;
+  background-color:#999;
+  
+  color: #333;
+  font-size:24px;
+  
+}
+
+/*------------footer----------------*/
+footer {
+  background-color: black;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 80px;
+  top: 725px;
+  color: white;
+}
+/*--------------------menu lateral-----------------*/
+
+#M-lateral{
+  width: 20%;
+  height: 76%;	
+  position:absolute; 
+  left: 8%;
+  top: 22%;
+  
+  border:2px; 
+  border-color:#000;
+}
+
+#reg_titulo{
+  width: 100%;
+  height: 7%;	
+  position:absolute; 
+  left: 0%;
+  top: 0%;
+  background-color:#369;
+  
+  color:#FFF;
+  font-size:24px;
+}
+
+	#O-menu1{
+	  width: 80%;
+	  height: 6%;	
+	  position:absolute; 
+	  left: 0%;
+	  top: 11%;
+	  background-color:#369;
+	  
+	  font-size:24px;
+	  color:#FFF;
+	  
+	  
+	  padding-left:20px;
+	  box-shadow:5px 0px 10px #939393;
+	  -webkit-transition:padding-left 0.6s;
+	}
+	
+	#O-menu1:hover{
+	 padding-left:40px;
+	 background-color:#3988FD;
+	}
+	
+	
+	#O-menu1:active{
+		background-color:#125AD3;
+		padding-left:40px;
+	}
+	
+	
+	#O-menu2{
+	  width: 80%;
+	  height: 6%;	
+	  position:absolute; 
+	  left: 0%;
+	  top: 21%;
+	  background-color:#369;
+	  
+	  font-size:24px;
+	  color:#FFF;
+	  
+	  
+	  padding-left:20px;
+	  box-shadow:5px 0px 10px #939393;
+	  -webkit-transition:padding-left 0.6s;
+	}
+	
+	#O-menu2:hover{
+	 padding-left:40px;
+	 background-color:#3988FD;
+	}
+	
+	
+	#O-menu2:active{
+		background-color:#125AD3;
+	}
+	
+	
+	#O-menu3{
+	  width: 80%;
+	  height: 6%;	
+	  position:absolute; 
+	  left: 0%;
+	  top: 31%;
+	  background-color:#369;
+	  
+	  font-size:24px;
+	  color:#FFF;
+	  
+	  
+	  padding-left:20px;
+	  box-shadow:5px 0px 10px #939393;
+	  -webkit-transition:padding-left 0.6s;
+	}
+	
+	#O-menu3:hover{
+	 padding-left:40px;
+	 background-color:#3988FD;
+	}
+	
+	#O-menu3:active{
+		background-color:#125AD3;
+	}
+	
+	
+	#O-menu4{
+	  width: 80%;
+	  height: 10%;	
+	  position:absolute; 
+	  left: 0%;
+	  top: 83%;
+	  background-color:#369;
+	  
+	  font-size:20px;
+	  color:#FFF;
+	  
+	  
+	  padding-left:20px;
+	  box-shadow:5px 0px 10px #939393;
+	  -webkit-transition:padding-left 0.6s;
+	}
+	
+	
+	#O-menu4:hover{
+	 padding-left:40px;
+	 background-color:#3988FD;
+	}
+	
+	#O-menu4:active{
+		background-color:#125AD3;
+	}
+	
+	
+	#prueba{
+	  width: 100%;
+	  height: 100%;	
+	  position:absolute; 
+	  left: 0%;
+	  top: 0%;
+	  background:transparent;
+	}
+	
+	
+	
+/*------------------procesos-------------------------*/
+
+#procesos{
+  width: 63%;
+  height: 18%;	
+  position:absolute; 
+  left: 30%;
+  top: 22%;
+  background-color:#FFF;
+}
+
+#proc-titulo{
+  width: 100%;
+  height: 29%;	
+  position:absolute; 
+  left: 0%;
+  top: 0%;
+  background-color:#369;
+  
+  color:#FFF;
+  font-size:24px;
+}
+
+
+	#rec-exportar{
+	  width: 25%;
+	  height: 100px;	
+	  position:absolute; 
+	  left: 5%;
+	  top: 36%;
+	  background-color:#C1C1C1;
+	  
+	  font-size:24px;
+	}
+
+		#img-exportar{
+		  width: 25%;
+		  height: 80%;	
+		  position:absolute; 
+		  left: 5%;
+		  top: 10%;
+		  background-color:#C1C1C1;
+		}
+		
+		#opciones-exportar{
+		  width: 200px;
+		  height: 100%;	
+		  position:absolute; 
+		  left: 30%;
+		  top: 0%;
+		  background-color:#C1C1C1;
+		}
+
+#rec-importar{
+  width: 250px;
+  height: 100px;	
+  position:absolute; 
+  left: 37%;
+  top: 36%;
+  background-color:#C1C1C1;
+  
+  font-size:24px;
+}
+
+		#img-importar{
+		  width: 25%;
+		  height: 80%;	
+		  position:absolute; 
+		  left: 5%;
+		  top: 10%;
+		  background-color:#C1C1C1;
+		}
+		
+		#opciones-importar{
+		  width: 100px;
+		  height: 100%;	
+		  position:absolute; 
+		  left: 30%;
+		  top: 0%;
+		  background-color:#C1C1C1;
+		}
+
+#rec-descarga{
+ 	
+  position:absolute; 
+  left: 70%;
+  top: 36%;
+  
+  font-size:24px;
+}
+
+		#img-descarga{
+		  width: 25%;
+		  height: 80%;	
+		  position:absolute; 
+		  left: 5%;
+		  top: 10%;
+		  background-color:#C1C1C1;
+		}
+		
+		#label-descarga{
+		  width: 60%;
+		  height: 70%;	
+		  position:absolute; 
+		  left: 40%;
+		  top: 30%;
+		  background-color:#C1C1C1;
+		}
+
+
+
+/*---------------------tabla----------------------*/
+
+#tabla{
+  width: 63%;
+  height: 55%;	
+  position:absolute; 
+  left: 30%;
+  top: 43%;
+  background-color:#FFF;
+}
+
+#tabl-titulo{
+  width: 100%;
+  height: 9%;	
+  position:absolute; 
+  left: 0%;
+  top: 0%;
+  background-color:#369;
+  
+  color:#FFF;
+  font-size:24px;
+}
+
+
+	#orden{
+	  width: 25%;
+	  height: 90%;	
+	  position:absolute; 
+	  left: 60%;
+	  top: 10%;
+	  background-color:#369;
+	  
+	  font-size:20px;
+	}
+	
+	#btn-Selec-todo{
+	  width: 15%;
+	  height: 80%;	
+	  position:absolute; 
+	  left: 84%;
+	  top: 10%;
+	  background-color:#000917;
+	  
+	  color:#FFF;	
+	}
+	
+			#datos{
+			  width: 98%;
+			  height: 88%;	
+			  position:absolute; 
+			  left: 2%;
+			  top: 11%;
+			}
+		
+		
+			.boxContenedor {
+			width:100%;
+			height:100%;
+			overflow:scroll;
+			}
+
+.botonimagen{
+  background:url(../imagenes/ajustes1.png);
+  background-repeat:no-repeat;
+  background-size: 24px;
+  margin: 2px;
+  background-position:center;
+  background-color:#FFF;
+}

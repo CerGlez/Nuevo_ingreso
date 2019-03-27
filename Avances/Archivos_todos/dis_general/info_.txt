@@ -1,0 +1,9 @@
+en la carpeta diseño se encuentra el proyecto anterior el cual se encuentran
+1_diseño-
+nota:estos son los archivos viejos los cuales dudo que se utilizen a partir de ahora
+html css 
+imagenes
+
+2 diseño mejorado
+inicio de segion.html
+panel de control.html

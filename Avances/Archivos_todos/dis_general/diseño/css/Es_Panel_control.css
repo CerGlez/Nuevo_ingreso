@@ -1,0 +1,209 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+#menú{
+ width: 100%;
+  height: 20%;	
+  position:absolute; 
+  left: 0%;
+  top: 0%;
+  background-color:#333;
+}
+
+#logo{
+ width: 5%;
+  height: 100%;	
+  position:absolute; 
+  left: 0%;
+  top: 0%;
+  background-color:#0F0;
+}
+
+#menú_Inferior{
+ width: 100%;
+  height: 65%;	
+  position:absolute; 
+  left: 0%;
+  top: 36%;
+  background-color:#05507C;
+}
+
+.Btn_Descargar{
+  width: 14%;
+  height: 65%;	
+  position:absolute; 
+  left: 85%;
+  top: 15%;
+  background-color:#39C;
+  background:url(../imagenes/1524028161068.png);
+  background-position:center;
+   background-size: 100%;
+   background-repeat:no-repeat;
+  
+}
+
+
+#exportacion1{
+  width: 20%;
+  height: 75%;	
+  position:absolute; 
+  left: 13%;
+  top: 10%;
+  
+  font-size:24px;
+  color:#FFF;
+  
+  
+}
+
+#exportacion2{
+  width: 20%;
+  height: 75%;	
+  position:absolute; 
+  left: 60%;
+  top: 10%;
+  
+  font-size:24px;
+  color:#FFF;
+  
+  
+}
+
+#ord_selec{
+	width: 87%;
+	height: 22%;
+	position: absolute;
+	left: 13%;
+	top: 100%;
+	background-color: #09C;
+}
+
+#ordenar_por{
+ width: 15%;
+  height: 100%;	
+  position:absolute; 
+  left: 0%;
+  top: 0%;
+}
+
+#btn_selec_todo{
+ width: 20%;
+  height: 100%;	
+  position:absolute; 
+  left: 80%;
+  top: 0%;
+  
+}
+
+.btn_selec_todo{
+ width: 100%;
+  height: 100%;	
+  position:absolute; 
+  left: 0%;
+  top: 0%;
+  background-color:#333;
+  color:#FFF
+}
+
+
+
+.botones{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	left: 0%;
+	top: 0%;
+	background-color: #333;
+	color: #FFF;
+}
+
+
+.sess{
+ width: 14%;
+  height: 35%;	
+  position:absolute; 
+  left: 85%;
+  top: 0%;
+  background-color:#333;
+  
+  color:#FFFFFF;
+}
+
+#latera{
+  width: 13%;
+  height: 79%;	
+  position:absolute; 
+  left: 0%;
+  top: 20%;
+  background-color:#05507C;
+}
+
+#bot1{
+	width: 100%;
+	height: 10%;
+	position: absolute;
+	left: 0%;
+	top: 0%;
+	background-color: #666;
+}
+#bot2{
+  width: 100%;
+  height: 10%;	
+  position:absolute; 
+  left: 0%;
+  top: 10%;
+  background-color:#666;
+}
+#bot3{
+  width: 100%;
+  height: 10%;	
+  position:absolute; 
+  left: 0%;
+  top: 20%;
+  background-color:#666;
+}
+
+#bot4{
+  width: 100%;
+  height: 10%;	
+  position:absolute; 
+  left: 0%;
+  top: 90%;
+  background-color:#666;
+}
+
+#bot4:hover{
+background-color:#069;
+}
+
+#datos{
+  width: 87%;
+  height: 76%;	
+  position:absolute; 
+  left: 13%;
+  top: 23%;
+  background-color:#CCC;
+}
+
+
+.boxContenedor {
+width:100%;
+height:100%;
+overflow:scroll;
+}
+
+
+.botonimagen{
+  background:url(../imagenes/ajustes1.png);
+  background-repeat:no-repeat;
+  background-size: 28px;
+  margin: 2px;
+  background-position:center;
+}#datos .boxContenedor table tr th label {
+	font-weight: bold;
+}
+#datos .boxContenedor table tr th label {
+	font-weight: normal;
+}

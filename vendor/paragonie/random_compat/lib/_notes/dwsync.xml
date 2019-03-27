@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="byte_safe_strings.php" server="C:/xampp/htdocs/sitio_inscripcion/" local="131683028900251326" remote="131683028900000000" Dst="2" />
+<file name="cast_to_int.php" server="C:/xampp/htdocs/sitio_inscripcion/" local="131683028900407659" remote="131683028900000000" Dst="2" />
+<file name="error_polyfill.php" server="C:/xampp/htdocs/sitio_inscripcion/" local="131683028900720191" remote="131683028900000000" Dst="2" />
+<file name="random.php" server="C:/xampp/htdocs/sitio_inscripcion/" local="131683028900876468" remote="131683028900000000" Dst="2" />
+<file name="random_bytes_com_dotnet.php" server="C:/xampp/htdocs/sitio_inscripcion/" local="131683028901189008" remote="131683028900000000" Dst="2" />
+<file name="random_bytes_dev_urandom.php" server="C:/xampp/htdocs/sitio_inscripcion/" local="131683028901501474" remote="131683028900000000" Dst="2" />
+<file name="random_bytes_libsodium.php" server="C:/xampp/htdocs/sitio_inscripcion/" local="131683028901970303" remote="131683028900000000" Dst="2" />
+<file name="random_bytes_libsodium_legacy.php" server="C:/xampp/htdocs/sitio_inscripcion/" local="131683028902439120" remote="131683028900000000" Dst="2" />
+<file name="random_bytes_mcrypt.php" server="C:/xampp/htdocs/sitio_inscripcion/" local="131683028902751713" remote="131683028900000000" Dst="2" />
+<file name="random_int.php" server="C:/xampp/htdocs/sitio_inscripcion/" local="131683028903377746" remote="131683028900000000" Dst="2" />
+</dwsync>

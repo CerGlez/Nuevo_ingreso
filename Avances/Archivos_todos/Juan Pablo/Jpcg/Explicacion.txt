@@ -1,0 +1,16 @@
+En tabla.php se muestra la tabla con informacion dela base de datos en la que tiene un boton ala que manda a descarga.php, 
+donde el archivo de descarga.php  se encarga de descargar la tabla, si se quieren bajar la tabla a excel, se puede hacer en cualquier 
+parte de la pagina pero se necesita mandar la direccion descarga.php
+
+
+
+
+la ficha de puse las direcciones de js, y el diseño del formulario que es el text_dos.css, y mande con un evento onblur, para que verifique que
+si entra al input y sale sin ponerle nada se ponga en rojo, y el requied,y tambien validar en los campos de 
+puros numeros que sean numeros que se pongan y si ponen letras des marca error Validacion.js, tambien de puse
+en el campo de estado sus estados y que si no ha elegido el estado no pueda poner el municipio y si pone el estado
+que de ponga sus municipios en especifico estado_validacion.js, tambien en la ficha, si la edad no coincide con la fecha
+de nacimiento des mande un arlet para que de informe que su edad no coicide y marca en rojo el campo edad si pasa, las clases
+de estilo que es .campo .error estan en text_dos.css, esas se utilizan para lo que acabo de decir de las validacion de campos
+
+
